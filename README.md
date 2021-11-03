@@ -1,0 +1,1 @@
+# succorcoin-testnet
